@@ -71,7 +71,7 @@ int main() {
             totalRecaudado += monto;
 
         } else {
-            printf("Pago insuficiente\n");
+            printf("El pago es insuficiente\n");
         }
 
         printf("\n¿Desea realizar otra operación? (S/N): ");
@@ -87,3 +87,4 @@ int main() {
     printf("\nGracias por usar la máquina de boletos. Hasta pronto");
 
 }
+
